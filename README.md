@@ -199,8 +199,8 @@ The internship project significantly strengthened my practical experience in bus
 ## Iyiola Olofin
 **Data Analyst | Power BI Developer | SQL Enthusiast**
 
-- LinkedIn: *(Add your LinkedIn profile link here)*  
-- GitHub: *(Add your GitHub profile link here)*  
+- LinkedIn: *www.linkedin.com/in/olofiniyiola*  
+- GitHub: *https://github.com/Honournwealth*  
 
 ---
 
