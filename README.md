@@ -194,15 +194,22 @@ The internship project significantly strengthened my practical experience in bus
 
 ---
 
-# 🔗 Author
+---
 
-## Iyiola Olofin
-**Data Analyst | Power BI Developer | SQL Enthusiast**
+# 👨‍💻 Author
 
-- LinkedIn: *www.linkedin.com/in/olofiniyiola*  
-- GitHub: *https://github.com/Honournwealth*  
+**Olofin Iyiola Oluwaseun**  
+Data Analyst | Power BI Developer | Python | SQL | Machine Learning Enthusiast  
+
+📧 Email: olofinio@funaab.edu.ng  
 
 ---
+
+# 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olofin%20Iyiola%20Oluwaseun-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olofiniyiola)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20My%20Projects-black?style=for-the-badge&logo=github)](https://github.com/YOUR-GITHUB-USERNAME)
 
 # ⭐ Acknowledgement
 
